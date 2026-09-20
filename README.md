@@ -9,6 +9,4 @@ commits
 
 
 Added random text.
-
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
-
+https://github.com/kingman242/SET09803-2026-7-TR1-001/actions/workflows/main.yml/badge.svg
