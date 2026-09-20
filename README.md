@@ -8,5 +8,5 @@ commits
 
 
 
-Added random text
+Added random text.
 
